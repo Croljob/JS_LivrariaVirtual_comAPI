@@ -1,0 +1,4 @@
+Para executar o servidor, na pasta do servidor execute: npm run start
+Depois execute o frontend do frontend com: npm run start
+
+OBS não esquecer de instalar o Axios e o react.
